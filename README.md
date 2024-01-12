@@ -25,8 +25,6 @@
     <a href="https://github.com/vaibhavnaware01/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
-
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [vaibhavnaware01](https://github.com/vaibhavnaware01/Portfolio). Thanks!
 
 ## Built With
