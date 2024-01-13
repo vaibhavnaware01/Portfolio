@@ -11,16 +11,16 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple"> Vaibhav Naware </span>
             from <span className="purple"> Nagpur, India.</span>
             <br />
-            I am currently employed as a Project Engineer developer at Smart City Living Lab IIIT Hyderabad.
+            I am currently working as a Project Engineer at Smart City Living Lab IIIT Hyderabad.
             <br />
-            I have completed my BE from St.Vincent Pallotti College of Engineering Nagpur
+            I have completed my BE in Electronics and Technology from St.Vincent Pallotti College of Engineering, Nagpur
             <br />
             <br />
             Other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Computer Games
+              <ImPointRight /> PC Gaming
             </li>
             <li className="about-activity">
               <ImPointRight /> Bike Riding
@@ -29,7 +29,7 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Explore New Dishesh
+              <ImPointRight /> Exploring New Dishesh
             </li>
           </ul>
 
