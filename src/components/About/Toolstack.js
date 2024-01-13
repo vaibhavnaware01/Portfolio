@@ -12,6 +12,8 @@ import {
   SiArduino,
   SiMicrosoft,
   SiMicrosoftoffice,
+  SiGit,
+  SiGithub,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -37,6 +39,12 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMicrosoftoffice />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGit />
       </Col>
     </Row>
   );

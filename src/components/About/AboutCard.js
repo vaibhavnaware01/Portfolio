@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently working as a Project Engineer at Smart City Living Lab IIIT Hyderabad.
             <br />
-            I have completed my BE in Electronics and Technology from St.Vincent Pallotti College of Engineering, Nagpur
+            I have completed my BE in Electronics and Telecommunication from St.Vincent Pallotti College of Engineering, Nagpur
             <br />
             <br />
             Other activities that I love to do!
