@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import { DiPhotoshop } from "react-icons/di";
 import {
   SiVisualstudiocode,
   SiPostman,
@@ -45,6 +46,9 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPhotoshop />
       </Col>
     </Row>
   );

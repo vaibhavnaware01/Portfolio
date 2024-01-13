@@ -10,6 +10,10 @@ import {
   DiGit,
   DiJava,
   DiGithubFull,
+  DiRasberryPi,
+  DiHtml5,
+  DiCss3Full,
+  DiCss3,
 } from "react-icons/di";
 import {
   SiRedis,
@@ -28,6 +32,18 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiRasberryPi />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiReact />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiHtml5 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
       </Col>
     </Row>
   );
